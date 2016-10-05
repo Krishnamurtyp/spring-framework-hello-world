@@ -1,0 +1,25 @@
+Name - Shubham Vadhera
+Student ID - 
+Email address - 
+
+These instructions are for running in an IDE
+1. Import the given files in a new Maven project
+2. Enter following dependency in Maven pom.xml:
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>4.3.2.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+            <version>1.2</version>
+        </dependency>
+    </dependencies>
+3. Change the name of person following line in beans.xml
+
+<property name="name" value="Alice"/>
+
+4. Compile and run MainApp.java
