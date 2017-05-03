@@ -1,5 +1,5 @@
-#CMPE 275
-#Lab 0 - Spring HelloWorld
+# CMPE 275
+# Lab 0 - Spring HelloWorld
 
 In this lab, you build a HelloWorld Java console application with Spring’s application context. 
 
